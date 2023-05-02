@@ -1,7 +1,7 @@
 <h4>Basic functions of Calculator</h4>
   <ul>
     <li>Addition of two numbers.</li>
-    <li>Difference between two numbers</li>
+    <li>Difference between two numbers.</li>
     <li>Product of two numbers.</li>
     <li>Division of two numbers.</li>
   </ul>
